@@ -1,0 +1,12 @@
+# ビルド結果
+_build/dist/
+_build/pyinstaller/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# ローカル設定・作業用
+settings.json
+*.log
