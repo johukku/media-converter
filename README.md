@@ -114,3 +114,4 @@ MIT License（[LICENSE](LICENSE)）
 
 - [Whisper 字幕作成ツール](https://github.com/johukku/whisper-subtitle-tool) — 動画から字幕を作る
 - [メディアダウンローダー](https://github.com/johukku/media-downloader) — URL から動画・音声を保存する
+- [字幕エディター](https://github.com/johukku/subtitle-editor) — 字幕を、音を聞きながら直して、保存するか動画に焼き込む
