@@ -4,7 +4,7 @@
 実際の処理は [FFmpeg](https://ffmpeg.org/) が行い、**初回起動時に自動で取得します**（同梱していません）。
 
 **[→ ダウンロード（最新版）](https://github.com/johukku/media-converter/releases/latest)**　|　
-**[→ 使い方](https://johukku.pages.dev/converter/)**
+**[→ 使い方](https://johukku.com/converter/)**
 
 ---
 
